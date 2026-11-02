@@ -1,5 +1,5 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+## DATE:02-11-2026
 ## AIM:
 To draw the three orthographic views (Top View, Front View and Side View) of the given 
 mechanical component using the given dimensions and suitable engineering drawing 
